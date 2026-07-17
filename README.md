@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Juniklx/Juniklx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Marcelo Teixeira.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Front-end
+📚 Estudando HTML, CSS e JavaScript
+🚀 Em busca da primeira oportunidade na área de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+## Projetos
+
+- 🚗 Landing Page Ford Ranger
+- 💼 Portfólio
+- ⛽ Pesquisa de Combustível
