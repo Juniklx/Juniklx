@@ -1,45 +1,74 @@
-<h1 align="center">Olá, eu sou o Marcelo 👋</h1>
+<div align="center">
 
-<h3 align="center">Desenvolvedor Front-End em formação</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Marcelo%20Teixeira%20&fontSize=36&fontColor=ffffff&desc=Desenvolvedor%20Front-end%20em%20forma%C3%A7%C3%A3o&descAlign=50&descAlignY=65&fontAlignY=35)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
+![Status](https://img.shields.io/badge/Status-em%20busca%20da%20primeira%20oportunidade-0ea5e9?style=flat-square)
+![Curso](https://img.shields.io/badge/Forma%C3%A7%C3%A3o-Front--end%20%7C%20Ford%20Enter%20%2B%20Senai-6366f1?style=flat-square)
 
----
+</div>
 
-### 🧑‍💻 Sobre mim
+## 👋 Sobre mim
 
-- 🎓 Estudante do curso de **Front-End** (parceria **Ford Enter + Senai**), com duração de **4 meses**
-- 🚀 Em busca da minha primeira oportunidade na área de desenvolvimento
-- 🛠️ Construindo projetos práticos em HTML, CSS e JavaScript ao longo da formação
-- 🔄 Aplicando versionamento com **Git/GitHub** e metodologia ágil **SCRUM** nos desafios do curso
+Estou concluindo a formação em Front-end da **Ford Enter**, em parceria com o **Senai**, no turno vespertino. Ao longo dos 4 meses de curso pratiquei versionamento com Git e GitHub seguindo o fluxo ágil Scrum, e desenvolvi projetos que vão de portfólios estáticos a sistemas com Programação Orientada a Objetos.
 
-### 🧰 Tecnologias e ferramentas
+Agora estou em busca da minha primeira oportunidade como desenvolvedor front-end, pronto para colocar em prática o que venho construindo em cada projeto.
 
-| Front-end | Versionamento | Metodologia |
-|---|---|---|
-| HTML5, CSS3, JavaScript | Git, GitHub | SCRUM |
+## 🛠️ Tecnologias
 
-### 📌 Projetos em destaque
+<div align="center">
 
-| Projeto | Descrição |
-|---|---|
-| [**alura-portfolio**](https://github.com/Juniklx/alura-portfolio) | Portfólio pessoal desenvolvido durante a formação de HTML e CSS da Alura, apresentando habilidades, projetos e contato |
-| [**midi**](https://github.com/Juniklx/midi) | Teclado MIDI de percussão em HTML, CSS e JS — cada tecla aciona um som diferente |
-| [**desafio-sprint-javascript**](https://github.com/Juniklx/desafio-sprint-javascript) | Desafio de sprint focado em lógica e manipulação com JavaScript |
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github" alt="HTML5, CSS3, JavaScript, TypeScript, Git, GitHub" />
 
-### 📫 Contato
+![POO](https://img.shields.io/badge/-Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos-2b2b2b?style=flat-square)
+![Scrum](https://img.shields.io/badge/-Git%20%2B%20Scrum-2b2b2b?style=flat-square)
+![LGPD](https://img.shields.io/badge/-LGPD%20em%20formul%C3%A1rios%20web-2b2b2b?style=flat-square)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/juniklx1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:marcelojunj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
----
+## 📌 Projetos em destaque
 
-<p align="center"><i>Sempre aprendendo, sempre codando. 💻</i></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏠 [alura-portfolio](https://github.com/Juniklx/alura-portfolio)**
+Portfólio pessoal desenvolvido durante a formação de HTML e CSS da Alura.
+
+</td>
+<td width="50%" valign="top">
+
+**🚙 [catalogo-interativo-ford-ranger](https://github.com/Juniklx/catalogo-interativo-ford-ranger)**
+Site temático da Ford Ranger 2022 com carrossel de imagens, comparador de carros e formulário de contato em JavaScript puro.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏦 [bytebank-poo](https://github.com/Juniklx/bytebank-sistema-bancario-poo)**
+Sistema bancário em JavaScript com POO: contas (corrente, poupança, salário) com taxas de saque por tipo e funcionários com autenticação e bonificação.
+
+</td>
+<td width="50%" valign="top">
+
+**💳 [bytebank-frontend](https://github.com/Juniklx/bytebank-frontend)**
+App bancário front-end com tela de saldo e formulário de nova transação (depósito, transferência, boleto), em HTML, CSS, JS e TypeScript.
+
+</td>
+</tr>
+</table>
+
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/juniklx1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelojunj@gmail.com)
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3)
+
+</div>
