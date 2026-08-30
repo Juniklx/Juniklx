@@ -7,13 +7,13 @@
 
 </div>
 
-## 👋 Sobre mim
+## Sobre mim
 
 Estou concluindo a formação em Front-end da **Ford Enter**, em parceria com o **Senai**, no turno vespertino. Ao longo dos 4 meses de curso pratiquei versionamento com Git e GitHub seguindo o fluxo ágil Scrum, e desenvolvi projetos que vão de portfólios estáticos a sistemas com Programação Orientada a Objetos.
 
 Agora estou em busca da minha primeira oportunidade como desenvolvedor front-end, pronto para colocar em prática o que venho construindo em cada projeto.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -25,19 +25,19 @@ Agora estou em busca da minha primeira oportunidade como desenvolvedor front-end
 
 </div>
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🏠 [alura-portfolio](https://github.com/Juniklx/alura-portfolio)**
+**[alura-portfolio](https://github.com/Juniklx/alura-portfolio)**
 Portfólio pessoal desenvolvido durante a formação de HTML e CSS da Alura.
 
 </td>
 <td width="50%" valign="top">
 
-**🚙 [catalogo-interativo-ford-ranger](https://github.com/Juniklx/catalogo-interativo-ford-ranger)**
+**[catalogo-interativo-ford-ranger](https://github.com/Juniklx/catalogo-interativo-ford-ranger)**
 Site temático da Ford Ranger 2022 com carrossel de imagens, comparador de carros e formulário de contato em JavaScript puro.
 
 </td>
@@ -45,20 +45,20 @@ Site temático da Ford Ranger 2022 com carrossel de imagens, comparador de carro
 <tr>
 <td width="50%" valign="top">
 
-**🏦 [bytebank-poo](https://github.com/Juniklx/bytebank-sistema-bancario-poo)**
+**[bytebank-poo](https://github.com/Juniklx/bytebank-sistema-bancario-poo)**
 Sistema bancário em JavaScript com POO: contas (corrente, poupança, salário) com taxas de saque por tipo e funcionários com autenticação e bonificação.
 
 </td>
 <td width="50%" valign="top">
 
-**💳 [bytebank-frontend](https://github.com/Juniklx/bytebank-frontend)**
+**[bytebank-frontend](https://github.com/Juniklx/bytebank-frontend)**
 App bancário front-end com tela de saldo e formulário de nova transação (depósito, transferência, boleto), em HTML, CSS, JS e TypeScript.
 
 </td>
 </tr>
 </table>
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
